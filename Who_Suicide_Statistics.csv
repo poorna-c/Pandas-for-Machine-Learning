@@ -1,0 +1,53 @@
+country,year,sex,age,suicides_no,population
+Albania,1986,female,35-54 years,,273200
+Albania,1986,female,5-14 years,-1,304700
+Albania,1986,female,55-74 years,-1,141700
+Albania,1986,female,75+ years,,34900
+Albania,1986,male,15-24 years,-1,306700
+Albania,1986,male,25-34 years,,269000
+Albania,1986,male,35-54 years,-1,302000
+Albania,1986,male,5-14 years,-1,331600
+Albania,1986,male,55-74 years,-1,134800
+Albania,1986,male,75+ years,,21400
+Albania,1987,female,15-24 years,14,289700
+Albania,1987,female,25-34 years,4,257200
+Albania,1987,female,35-54 years,6,278800
+Albania,1987,female,5-14 years,0,311000
+Zimbabwe,1987,female,55-74 years,0,144600
+Zimbabwe,1989,male,5-14 years,0,349700
+Zimbabwe,1989,male,55-74 years,6,142100
+Zimbabwe,1989,male,75+ years,-1,22500
+Zimbabwe,1990,female,15-24 years,-1,305900
+Belize,1990,female,25-34 years,-1,278000
+Belize,1990,female,35-54 years,-1,308300
+Belize,1990,female,5-14 years,-1,329600
+Belize,1990,female,55-74 years,,156400
+Armenia,1990,female,75+ years,,37600
+Armenia,2015,male,25-34 years,,222680
+Armenia,2015,male,35-54 years,,374464
+Armenia,2015,male,5-14 years,,184114
+Armenia,2015,male,55-74 years,-1,287770
+Armenia,2015,male,75+ years,-1,64200
+Armenia,1983,female,15-24 years,0,-1
+Armenia,1983,female,25-34 years,-1,-1
+Armenia,1983,female,35-54 years,0,-1
+Armenia,1983,female,5-14 years,0,-1
+Armenia,1983,female,55-74 years,-1,-1
+Armenia,1983,female,75+ years,0,-1
+Armenia,1983,male,15-24 years,0,-1
+Armenia,1983,male,25-34 years,-1,-1
+Armenia,1983,male,35-54 years,-1,-1
+Anguilla,1989,female,35-54 years,0,-1
+Anguilla,1989,female,5-14 years,-1,-1
+Virgin Islands (USA),2015,male,5-14 years,0,-1
+Virgin Islands (USA),2015,male,55-74 years,0,12615
+Virgin Islands (USA),2015,male,75+ years,-1,2496
+Zimbabwe,1990,female,75+ years,3,-1
+Zimbabwe,1990,male,15-24 years,132,-1
+Zimbabwe,1990,male,25-34 years,150,-1
+Zimbabwe,1990,male,35-54 years,132,-1
+Zimbabwe,1990,male,5-14 years,6,-1
+Zimbabwe,1990,male,55-74 years,74,-1
+Zimbabwe,1990,male,75+ years,13,-1
+Zimbabwe,2006,male,5-14 years,1,37049
+Zimbabwe,2006,male,55-74 years,-1,7990

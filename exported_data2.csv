@@ -1,0 +1,53 @@
+country,year,sex,age,suicides_no,population
+Albania,1986,female,35-54 years,0.0,273200.0
+Albania,1986,female,5-14 years,0.0,304700.0
+Albania,1986,female,55-74 years,0.0,141700.0
+Albania,1986,female,75+ years,0.0,34900.0
+Albania,1986,male,15-24 years,0.0,306700.0
+Albania,1986,male,25-34 years,0.0,269000.0
+Albania,1986,male,35-54 years,0.0,302000.0
+Albania,1986,male,5-14 years,0.0,331600.0
+Albania,1986,male,55-74 years,0.0,134800.0
+Albania,1986,male,75+ years,0.0,21400.0
+Albania,1987,female,15-24 years,14.0,289700.0
+Albania,1987,female,25-34 years,4.0,257200.0
+Albania,1987,female,35-54 years,6.0,278800.0
+Albania,1987,female,5-14 years,0.0,311000.0
+Zimbabwe,1987,female,55-74 years,0.0,144600.0
+Zimbabwe,1989,male,5-14 years,0.0,349700.0
+Zimbabwe,1989,male,55-74 years,6.0,142100.0
+Zimbabwe,1989,male,75+ years,0.0,22500.0
+Zimbabwe,1990,female,15-24 years,0.0,305900.0
+Belize,1990,female,25-34 years,0.0,278000.0
+Belize,1990,female,35-54 years,0.0,308300.0
+Belize,1990,female,5-14 years,0.0,329600.0
+Belize,1990,female,55-74 years,0.0,156400.0
+Armenia,1990,female,75+ years,0.0,37600.0
+Armenia,2015,male,25-34 years,0.0,222680.0
+Armenia,2015,male,35-54 years,0.0,374464.0
+Armenia,2015,male,5-14 years,0.0,184114.0
+Armenia,2015,male,55-74 years,0.0,287770.0
+Armenia,2015,male,75+ years,0.0,64200.0
+Armenia,1983,female,15-24 years,0.0,197720.54545454544
+Armenia,1983,female,25-34 years,0.0,197720.54545454544
+Armenia,1983,female,35-54 years,0.0,197720.54545454544
+Armenia,1983,female,5-14 years,0.0,197720.54545454544
+Armenia,1983,female,55-74 years,0.0,197720.54545454544
+Armenia,1983,female,75+ years,0.0,197720.54545454544
+Armenia,1983,male,15-24 years,0.0,197720.54545454544
+Armenia,1983,male,25-34 years,0.0,197720.54545454544
+Armenia,1983,male,35-54 years,0.0,197720.54545454544
+Anguilla,1989,female,35-54 years,0.0,197720.54545454544
+Anguilla,1989,female,5-14 years,0.0,197720.54545454544
+Virgin Islands (USA),2015,male,5-14 years,0.0,197720.54545454544
+Virgin Islands (USA),2015,male,55-74 years,0.0,12615.0
+Virgin Islands (USA),2015,male,75+ years,0.0,2496.0
+Zimbabwe,1990,female,75+ years,3.0,197720.54545454544
+Zimbabwe,1990,male,15-24 years,132.0,197720.54545454544
+Zimbabwe,1990,male,25-34 years,150.0,197720.54545454544
+Zimbabwe,1990,male,35-54 years,132.0,197720.54545454544
+Zimbabwe,1990,male,5-14 years,6.0,197720.54545454544
+Zimbabwe,1990,male,55-74 years,74.0,197720.54545454544
+Zimbabwe,1990,male,75+ years,13.0,197720.54545454544
+Zimbabwe,2006,male,5-14 years,1.0,37049.0
+Zimbabwe,2006,male,55-74 years,0.0,7990.0
